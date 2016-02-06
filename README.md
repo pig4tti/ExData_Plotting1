@@ -7,7 +7,7 @@ The assignment requirements are described below The files for the assignment are
 3. plot3.R and plot3.png - code and output for third plot
 4. plot4.R and plot4.pnb - code and output for fourth plot
 
-### Notice: all these files use the same function to load the data. This fuction is on the file _getDataSetFunction.R_
+### Notice: all these files use the same function to load the data. This fuction is located on the file _getDataSetFunction.R_
 
 
 ## Introduction
