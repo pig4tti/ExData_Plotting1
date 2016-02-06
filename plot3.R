@@ -1,5 +1,6 @@
-source('HelperFunction.R')
+source('getDataSetFunction.R')
 
+# getDataSet function is defined on the file 'getDataSetFunction'
 data <- getDataSet()
 
 # plot 3
